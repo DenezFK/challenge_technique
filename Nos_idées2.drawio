@@ -1,0 +1,81 @@
+<mxfile host="Electron" modified="2024-06-10T08:59:23.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="yE5XurAhP9jFELeT7TUD" version="24.5.1" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1400" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-0" value="Fait des pizza" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-2" value="Gestion des stocks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-3" value="Check des commandes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-4" value="Livraison" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-5" value="Requêtes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-6" value="Péremption" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-7" value="Vérification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-8" value="Singleton" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-9" value="Ingredients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-10" value="Rentabilité" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="234" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-11" value="Porte monnaie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Singleton&lt;/h1&gt;&lt;div&gt;Ingrédients&lt;/div&gt;&lt;div&gt;Pizza&lt;/div&gt;&lt;div&gt;Commandes~&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="280" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Observers&lt;/h1&gt;&lt;div&gt;Gestion commandes&amp;nbsp;&lt;/div&gt;&lt;div&gt;Vérification (péremption)&lt;/div&gt;&lt;div&gt;Recette~&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="280" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Strategy&lt;/h1&gt;&lt;div&gt;Pizza&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="280" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-17" value="Pertinence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-W0bIPWv9PRTHpPcW9VR-18" target="-W0bIPWv9PRTHpPcW9VR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-25" value="Prix" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-W0bIPWv9PRTHpPcW9VR-19">
+          <mxGeometry x="-0.1653" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-18" value="Notif Commandes&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="-400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-W0bIPWv9PRTHpPcW9VR-20" target="-W0bIPWv9PRTHpPcW9VR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-20" value="Notif évolution Ingrédients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="-430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-21" value="Achât" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-W0bIPWv9PRTHpPcW9VR-23" target="-W0bIPWv9PRTHpPcW9VR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-W0bIPWv9PRTHpPcW9VR-23" value="Notif évolution Pizza" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="-370" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
